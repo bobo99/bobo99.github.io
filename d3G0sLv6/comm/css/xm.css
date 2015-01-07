@@ -13,7 +13,7 @@ a:hover { color: #ba2363; }
 .menu a:hover { background-color: #2ebbbb; }
 
 .menu1 { height: 35px; margin-top:5px; padding-top: 0px; background: url(line3_.jpg) no-repeat top #b4b4b4; clear: both; }
-.menu1 a { font-family: "微软雅黑", "宋体"; font-size: 18px; font-weight: bold; height: 35px; line-height: 35px; display: inline-block; text-align: center; width: 130px; }
+.menu1 a { font-family: "微软雅黑", "宋体"; font-size: 18px; font-weight: bold; height: 35px; line-height: 35px; display: inline-block; text-align: center; width: 150px; }
 .menu1 a:hover { background-color: #2ebbbb; }
 
 .logo a { background: url(logo.jpg) no-repeat; width: 127px; height: 38px;float:left;}
